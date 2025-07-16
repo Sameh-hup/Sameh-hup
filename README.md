@@ -11,9 +11,9 @@
         <p><strong>
                 <summary> Busy coding & Vibing to : </summary>
             </strong></p>
-
-   [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-        <be>
+         
+   [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31ihdcquia26umkswammcblnuf2m)
+  <be>
 
    </details>
 
@@ -45,7 +45,7 @@ const myTools = {
 "ProgramingLanguages" : { "Python", "Javascript", "Java", "c++" },
 "OtherLanguages" : { "HTML", "CSS"},
 "Database" : { "Sqlite" },
-"Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+"Editors" : { "Vscode" },
 "Platforms" : { "GNU/Linux", "Windows" },
 "OtherTools" : { "Git" }
 };
